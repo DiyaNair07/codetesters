@@ -3,7 +3,7 @@ y=int(input("Enter 2nd number"))
 z=int(input("Enter 3rd number"))
 
 a=int((x+y)*z)
-if(a>100):
+if a>100:
   print("Greater than 100")
 
 else:
